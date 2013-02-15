@@ -3,6 +3,10 @@
 	<classpathentry kind="src" path="google/wave"/>
 	<classpathentry kind="src" path="google/guava"/>
 	<classpathentry kind="src" path="google/guice"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_32"/>
+	<classpathentry kind="lib" path="lib/guava/guava-14.0-rc2-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/guava/guava-14.0-rc2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/guava/guava-14.0-rc2.jar" sourcepath="C:/Users/sxy/Desktop/guava-osgi/guava-14.0-rc2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/guava/guava-gwt-14.0-rc2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
